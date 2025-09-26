@@ -1,5 +1,5 @@
 # 💫 Hola, me llamo Luis
-Actualmente estudiando desarrollo de aplicaciones web.<br>Entusiasta de los videojuegos y los sistemas que albergan.<br>Interesado en aprender sobre lógica matemática y su relación <br>con la música y la programación.
+-Actualmente estudiando desarrollo de aplicaciones web.<br>-Entusiasta de los videojuegos y los sistemas que albergan.<br>-Interesado en aprender sobre lógica matemática y su relación <br>con la música y la programación.
 
 
 # 💻 Tecnologías con las que he trabajado:
